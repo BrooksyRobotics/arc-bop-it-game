@@ -1,8 +1,6 @@
 # arc-bop-it-game
 Recreate the Head Bop-It Game to match your head movement with the signal given: Twist, Bob and Roll.
 
-<img width="800" height="1222" alt="Bopitgif" src="https://github.com/user-attachments/assets/225958c8-6fc4-4c20-8aa4-72a959e24db6" />
-
 https://youtube.com/shorts/ngLXlH33Bwg
 
 -- Amazon Affiliate links --  
@@ -17,3 +15,5 @@ ELEGOO Uno R3 Most Complete Starter kit: https://amzn.to/4rYCt2i
 DEPENDENCIES  (Library Manager)
 - LedControl  by Eberhard Fahle
 - MPU6050     by Electronic Cats
+  
+<img width="800" height="1222" alt="Bopitgif" src="https://github.com/user-attachments/assets/225958c8-6fc4-4c20-8aa4-72a959e24db6" />
